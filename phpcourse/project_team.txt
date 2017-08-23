@@ -1,0 +1,25 @@
+Web Application
+Project Manager (non coder)
+Analyist
+
+Development Team
+Team Leader - Head of Development Team (coder)
+Senior Developers
+Junior Developers
+
+Design Team
+Web Designer
+UI Developer  (HTML, CSS, Javascript)
+UX Designer (none coder)
+
+Tester 
+Test Unit
+
+Template Engine
+
+
+
+
+
+
+

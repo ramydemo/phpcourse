@@ -1,0 +1,19 @@
+.subheader {padding-right: 0; padding-left: 0; }
+.subheader .navbar { border-radius: 0; margin-bottom: 0 }
+
+.wishlist_link:hover i {color: #fff}
+.header_margin {margin-top: 40px;}
+
+.main_navbar {background: #6798ff}
+
+.main_navbar .navbar-nav>li>a {color: #f5f5f5}
+
+.home_slider .item img {width: 100%;}
+.branding {padding:10px 30px;}
+
+footer {background: #666; padding:50px 20px; color: #fff}
+footer a {color: #f0f0f0}
+footer a:hover {color: #ffff00}
+
+.img_wrap {max-height: 150px; overflow: hidden;}
+.img_wrap img {width: 100%;}

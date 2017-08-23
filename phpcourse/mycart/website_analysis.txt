@@ -1,0 +1,102 @@
+E-Commerce (Shopping Cart)
+
+Business Anaylsis (Client)
+Technical Analysis (Dev Team)
+
+Products
+Categories
+
+Frontend
+Backend (Admin, CMS)
+
+Frontend
+Home page
+Category (list of products)
+Product details
+Shopping cart
+Checkout (Total, shipping fees, method of payment)
+Login
+Sign Up
+About us, contact us, help (FAQ)
+Search
+Discounts (Deals)
+
+Home page
+Menu (categories)
+Curreny change
+Logo
+Search
+quick Shopping cart 
+slider
+featured products
+brand logos
+footer (links: about, contact)
+
+Product (details, snippet)
+Category
+Brand
+Product name
+image
+price
+description
+details
+discount (percent, fixed)
+amount
+Status (displayed on website or not)
+Featured 
+
+Product Reviews
+Product ID
+Review Message
+Rate (5)
+
+Category
+ID  1
+Category name (Desktop)
+Parent ID 0
+
+PHP
+MySQL
+HTML, CSS
+JQuery
+
+Framework (no)
+Guidelines (OOP)
+
+ProductsClass
+productsClass
+FirstName
+firstName
+first_name
+
+mysqli (not mysql) not PDO
+mysqli_query (*)
+$conn->query
+
+CSS Framework
+Bootstrap
+
+JS Framework
+Jquery
+
+Jquery plugins
+slider (owl carusel)
+
+Icons
+Fontawesome
+
+
+******************************
+What I will install
+GIT (www.git-scm.org)
+Composer (www.getcomposer.org)
+Node JS (https://nodejs.org/en/download)
+Bower (www.bower.io)
+
+Register at
+- www.github.com
+- www.bitbucket.org
+
+
+
+
